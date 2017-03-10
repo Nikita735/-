@@ -1,0 +1,27 @@
+body{
+	background-image:url(images/ja.jpg);
+}
+a{
+	color:#FF191D;
+}
+.top{
+	background-color:#0E85CD;
+	border:3px solid #FF509F;
+	border-radius:30px;
+	margin-left:200px;
+	margin-right:200px;
+	text-align:center;
+	height:20px;
+}
+.reg{
+	color :red;
+	border:3px solid red;
+	border-radius:10px;
+	text-align:center;
+	background-color:#3AE2CE;
+	margin-top:250px;
+	margin-left:400px;
+	margin-right:400px;
+	
+	
+}

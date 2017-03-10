@@ -1,0 +1,21 @@
+body{
+	background-image:url(images/java.jpg);
+}
+a{
+	color:#FF191D;
+}
+.top{
+	background-color:#0E85CD;
+	border:3px solid #FF509F;
+	border-radius:30px;
+	margin-left:200px;
+	margin-right:200px;
+	text-align:center;
+	height:20px;
+}
+h3{
+	color:#F72718;
+}
+.me{
+	color:#2746F7;
+}

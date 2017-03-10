@@ -1,0 +1,34 @@
+body{
+	background-image:url(images/Home.jpg);
+}
+a{
+	color:#FF191D;
+}
+.top{
+	background-color:#0E85CD;
+	border:3px solid #FF509F;
+	border-radius:30px;
+	margin-left:200px;
+	margin-right:200px;
+	text-align:center;
+	height:20px;
+}
+.na{
+	transition: 5s all;
+	color:#4DFF32;
+	text-align:center;
+	margin-top:100px;
+}
+.na:hover{
+	transform:rotate(30deg);
+}
+.sa{
+	color:#F76B13;
+	font-size:30px;
+	font-weight:900px;
+	margin-top:100px;
+	margin-left:70px;
+	margin-right:70px;
+}
+
+	
